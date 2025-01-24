@@ -1,9 +1,69 @@
+mysql优化
+https://mp.weixin.qq.com/s/UFWXdaIiukTC-rb6sluzZA
+https://mp.weixin.qq.com/s/F0V4chLvOVrTsfrJn2OqQg
+https://mp.weixin.qq.com/s/mdtkxgFPImfTlj3ADbMM8Q
+https://mp.weixin.qq.com/s/b2nRLtE_TRLoaSERVev-wg
+https://mp.weixin.qq.com/s/E_E6sJAlkpKYi9cStvKUBQ
+https://mp.weixin.qq.com/s/XbdQqzk2vfrM8TnovQueeA
+
+https://mp.weixin.qq.com/s/e3-Z89A-QPgDJf9g9pSGtw
+https://mp.weixin.qq.com/s/E_E6sJAlkpKYi9cStvKUBQ
+https://mp.weixin.qq.com/s/7FQ1bRBcILuJHIjOjz0eqw
+https://mp.weixin.qq.com/s/SUcGnyUGACK02DvZz_bOig
+https://mp.weixin.qq.com/s/reT-kj_8IlCs1l-bGuW2Cg
+https://mp.weixin.qq.com/s/Q8niqMkUhixL7NlQIUgvaA
+https://mp.weixin.qq.com/s/CVg0O9esAQ9iUqlJbUgtYQ
+https://mp.weixin.qq.com/s/Qk6ShR-pNzhwN0uJmYfjfQ
+https://mp.weixin.qq.com/s/Qvl5A8UQYhRw436rVepNfQ
+https://mp.weixin.qq.com/s/I4gsPqpo_WPrpzpedD603g
+https://mp.weixin.qq.com/s/XmRmpTQyrmYMwHo8gapBcQ
+https://mp.weixin.qq.com/s/D2pO3C0dtsmySwpHNl228A
+https://mp.weixin.qq.com/s/kxRGo4_Gs8ZyaYjsD_b8aw
+https://mp.weixin.qq.com/s/1rY0dzunnwRT4pWYshhj_A
+https://mp.weixin.qq.com/s/mQIru_UIOfP6ahqfHresyA
+https://mp.weixin.qq.com/s/oAYKdY0saOpv-O06w6F4Bg
+https://mp.weixin.qq.com/s/h0yVBZizqxZMM1u0VPmn7g
+https://mp.weixin.qq.com/s/ZmG9V-J5YCkl7BdRUif4jw
+https://mp.weixin.qq.com/s/OSV2bfP7HSbtO3b31tpBlQ
+https://mp.weixin.qq.com/s/zObydvTaBc0tKzx4G8B3tw
+https://mp.weixin.qq.com/s/BWqOULBijnl6EMKuZOsr0w
+https://mp.weixin.qq.com/s/IFyUNCfRmEWFyQhlmk1OPg
+https://mp.weixin.qq.com/s/aHtIW4vmrl-0rUcPI3T7ZQ
+https://mp.weixin.qq.com/s/mFKKLd0SXkxSrfjlY-0jbQ
+https://mp.weixin.qq.com/s/2ouUFF2JYCpWAIi3iHw_WQ
+https://www.zhihu.com/question/441963725/answer/2893972995?utm_campaign=shareopn&utm_content=group1_Answer&utm_medium=social&utm_psn=1865019937891950592&utm_source=wechat_session
+https://www.zhihu.com/question/598621331/answer/3010995032?utm_campaign=shareopn&utm_content=group3_Answer&utm_medium=social&utm_psn=1865020364662382595&utm_source=wechat_session
+https://mp.weixin.qq.com/s/0R2xhl7yxatZ_zeKLAIhIw
+https://mp.weixin.qq.com/s/I49cON2Qt566CUuAEWHfvA
+https://mp.weixin.qq.com/s/yDzwLpvCdDPXYAFC-8kNag
+https://mp.weixin.qq.com/s/dlKA4EBlee7YkXxQ0neHNQ
+https://mp.weixin.qq.com/s/B02g5uRABwemR0DfNeuPLA
+https://mp.weixin.qq.com/s/xpBmjDvkrGk5mrMZhvz0fQ
+https://mp.weixin.qq.com/s/l3uj5r2zWuPoJRT0fqWOrA
+https://mp.weixin.qq.com/s/xmtMfAjEAXLitCz532WFmg
+https://mp.weixin.qq.com/s/-a8wIGAnlrnaFoAZMMZtWw
+https://mp.weixin.qq.com/s/tQkSLiJBaX9ugts047N1oA
+https://mp.weixin.qq.com/s/R1idDfrGhlnyxgXKCNvzbA
+https://mp.weixin.qq.com/s/c0S3y5qcMACaIL7i6xnkZg
+https://mp.weixin.qq.com/s/Fcmk0wYWQIeGXsMECKK82A
+https://mp.weixin.qq.com/s/6CmWkyRdGVTR7YtvnwRQPg
+https://mp.weixin.qq.com/s/bfEHNvQxQ1ZVPH4RX1m2bQ
+https://mp.weixin.qq.com/s/lKkONmzef0ziFyzSZ1IC5Q
+https://mp.weixin.qq.com/s/rhqgq9mL5g4AG7HiWQV8ng
+https://mp.weixin.qq.com/s/gKWPPUVCUnbvgR4dkPUNAw
+https://mp.weixin.qq.com/s/yErCS16bdw9EZoOto4cArg
+https://mp.weixin.qq.com/s/8Swfp-Y8L9znMyXzhpfVRg
+https://mp.weixin.qq.com/s/5JMtjB9zMZLO-9TC2RXe0g
+https://mp.weixin.qq.com/s/GL7w1XZWiTd9xa7mPWnW7A
 
 
-https://mp.weixin.qq.com/s/Rz9FfUrHzUZ61LF7C8lMLg
-https://mp.weixin.qq.com/s/_ZItmYcIHJjVSxFAURLjCw
+
 https://mp.weixin.qq.com/s/wSil3CbYkadFvFDaMjKHqg
-https://mp.weixin.qq.com/s/qus3wJYVOja6YKDtcjZIow
+
+
+https://mp.weixin.qq.com/s/_ZItmYcIHJjVSxFAURLjCw
+
+
 https://mp.weixin.qq.com/s/E4hmBgVwSbgHiHuKAX2COQ
 https://mp.weixin.qq.com/s/hIdu9lIzXUcEgLB6lWRVIA
 https://mp.weixin.qq.com/s/RWQzLZq6X7B5ThaKX6U4SQ
@@ -16,7 +76,7 @@ https://blog.51cto.com/u_16099209/6959317
 
 
 
-
+https://mp.weixin.qq.com/s/qus3wJYVOja6YKDtcjZIow
 
 
 
