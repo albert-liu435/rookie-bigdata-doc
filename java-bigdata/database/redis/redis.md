@@ -1,5 +1,5 @@
 # 已读
-
+[领导发话：谁再用Redis处理过期订单，立马走人！](https://mp.weixin.qq.com/s/aHtIW4vmrl-0rUcPI3T7ZQ)
 
 
 # 正在读

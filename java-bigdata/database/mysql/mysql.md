@@ -1,6 +1,6 @@
 
 # 已读
-
+[4 种 MySQL 同步 ES 方案，yyds！](https://mp.weixin.qq.com/s/I4gsPqpo_WPrpzpedD603g)
 
 
 
