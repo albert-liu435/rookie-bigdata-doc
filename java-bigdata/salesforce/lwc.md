@@ -10,6 +10,30 @@
 
 
 
+LWC-Recipes
+Hello
+    Hello
+    HelloBinding
+    HelloExpressions
+    HelloConditionalRendering
+    HelloForEach
+    HelloIterator
+
+Data Service
+    Lightning Data Service
+    LdsCreateRecord
+    LdsGenerateRecordInputForCreate
+    LdsDeleteRecord
+
+Datatable
+    Datatable Inline Edit With UI API
+
+
+
+
+
+
+
 
 
 
