@@ -1,0 +1,6 @@
+## 后续相关的都写在这个文件目录中
+
+下一步:[电商开发总结（1）：找准定位](https://mp.weixin.qq.com/s?__biz=MzUzODkwMzMyMQ==&mid=2247484059&idx=1&sn=5faa2f320c4c92dea683ca34d8d9f322&chksm=fbfb1d2745736dc3f788e27482f5d238fe0cbf90015a29bdfbda1a947aba58f47bf5c62367d5&scene=126&sessionid=1738723441#rd)
+
+
+

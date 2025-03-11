@@ -1,0 +1,36 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+title
+<font color=#FF0033><size:30>微服务认证流程</size></font>
+end title
+
+autonumber
+
+actor 客户端 as user #000000
+
+participant 网关 as gateway #lightblue
+
+participant Oauth2.0授权服务 as oauth #lightblue
+
+participant 其他服务 as other #lightblue
+
+
+
+user -> gateway:1、获取access_token
+gateway -> oauth: 2、
+CRM -> mini_program:CRM返回用户领取券成功，券状态为待激活
+IPOS -> CRM:顾客到门店进行券激活，券激活调用CRM MB02接口
+CRM -> IPOS: CRM返回IPOS券激活成功，此时的券状态变为未使用状态。后续顾客就可以通过POS或者H5进行使用
+mini_program -> CRM:以小程序为例，小程序下单调用CRM CP08接口将券状态从未使用变更为 券在途
+CRM -> mini_program: CRM返回小程序成功
+mini_program -> CRM: 小程序调用CRM CP08进行券核销，券核销成功，券状态 由券在途->已使用
+CRM -> mini_program: CRM返回小程序成功
+
+
+/'Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+
+Alice -> Bob: Another authentication Request
+Alice <-- Bob: another authentication Response'/
+@enduml
